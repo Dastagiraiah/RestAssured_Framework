@@ -1,0 +1,14 @@
+TestRunnerClass.class
+Pojo\Courses.class
+Pojo\Location.class
+Pojo\AddPlace.class
+Pojo\Mobile.class
+Pojo\GetCourses.class
+stepDefinations\Hooks.class
+Pojo\WebAutomation.class
+Utils\TestDataPayload.class
+BDD\APIFramework\AppTest.class
+Utils\APIResource.class
+stepDefinations\StepDefination.class
+Pojo\Api.class
+Utils\ReqSepcBulider.class
